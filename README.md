@@ -1,35 +1,27 @@
 <div align="center">
 
-# ∅ swarm-console
+<img src="https://raw.githubusercontent.com/NullframeAI/NullframeAI/main/assets/header.png" alt="Vesper AI Laboratory" width="960" />
+
+# swarm-console
 
 **Command deck for multi-agent swarms: chat, memory, skills, sessions, admin.**
 
-<img src="https://img.shields.io/badge/NULLFRAME-SALVAGE_BAY-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/STATUS-FIELD_TESTING-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/UPSTREAM-MervinPraison-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
 
 </div>
 
 ---
 
-```console
-nullframe@deep:~/swarm-console$ cat provenance.txt
-```
+## Provenance
 
-> **Salvaged technology.** This is NULLFRAME's working fork of
+> **Upstream research fork.** This is Vesper AI Laboratory's working fork of
 > [MervinPraison/PraisonAIUI](https://github.com/MervinPraison/PraisonAIUI). The engineering credit belongs to the
-> upstream authors; the lab runs this machine, studies it, and strips it for
-> parts. Original documentation lives upstream.
+> upstream authors; Vesper AI Laboratory uses this fork for research and adaptation. Original documentation lives upstream.
 
-```console
-nullframe@deep:~/swarm-console$ cat tech.txt
-```
+## Technical focus
 
 A full AI operations dashboard from a single entry point: multi-agent chat, memory inspection, skills, session management, and 19 admin pages, plus YAML-driven chat bots and static documentation sites.
 
-```console
-nullframe@deep:~/swarm-console$ cat lab-notes.txt
-```
+## Lab notes
 
 - the lab's reference for fleet-operations UI patterns
 - studied for how humans supervise many agents at once
@@ -38,8 +30,8 @@ nullframe@deep:~/swarm-console$ cat lab-notes.txt
 
 <div align="center">
 
-**[NULLFRAME](https://github.com/rindy007)** · **[nullframe.higgsfield.app](https://nullframe.higgsfield.app)**
+**[Vesper AI Laboratory](https://github.com/NullframeAI)** · **[Explore the laboratory](https://vesper-world.vercel.app/)**
 
-<sub><code>NULLFRAME // nothing here is an accident</code></sub>
+<sub><code>Vesper AI Laboratory / Intelligence, built to endure.</code></sub>
 
 </div>
